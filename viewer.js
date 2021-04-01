@@ -49,7 +49,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "//mozilla.github.io/pdf.js/build/compressed.tracemonkey-pldi-09.pdf",
+    value: "//github.com/jv-barsuk/MultiLayerPDF/raw/main/MultiLayer.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
